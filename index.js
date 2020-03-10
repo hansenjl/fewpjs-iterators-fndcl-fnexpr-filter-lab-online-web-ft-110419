@@ -3,7 +3,7 @@ function matchName() {
   
 }
 
-function fuzzyMatch() {
+function fuzzyMatch(drivers, name) {
   
 }
 
